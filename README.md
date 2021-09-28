@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Rhythmic Tiles
 
-Author: (TODO: your name)
+Author: Brad Zhang
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: 4x4 grid with cursor, press the buttons in time with the music (visual prompt shows up as well)
 
 Screen Shot:
 
@@ -10,7 +10,7 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+arrow keys to move, press A/S/D/F when prompted. Must be on the correct tile, and press the correct key with correct timing, to score a point
 
 Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
 

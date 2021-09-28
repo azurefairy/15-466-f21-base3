@@ -1,4 +1,4 @@
-# Rhythmic Tiles
+# Rhythmic Tiles (incomplete/not implemented)
 
 Author: Brad Zhang
 
